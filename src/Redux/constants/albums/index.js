@@ -1,0 +1,3 @@
+export const ALBUMS_SUCCESS = 'ALBUMS_SUCCESS'
+export const ALBUMS_FAIL = 'ALBUMS_FAIL'
+export const ALBUMS_REQUEST = 'ALBUMS_REQUEST'
